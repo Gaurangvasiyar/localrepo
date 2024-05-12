@@ -2,4 +2,4 @@ import datetime
 tm=datetime.time()
 print(tm)
 dt=datetime.date()
-print(dm)
+print(tm)
